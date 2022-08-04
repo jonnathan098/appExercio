@@ -5,7 +5,7 @@ import TelaInicial from './src/telaInicaial';
 
 const app: React.FC = () => {
   return(
-   <TelaInicial></TelaInicial>
+   <TelaInicial/>
   );
 };
 export default app;
